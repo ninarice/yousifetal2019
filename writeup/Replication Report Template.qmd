@@ -1,6 +1,6 @@
 ---
-title: "Replication of Study X by Sample & Sample (20xx, Psychological Science)"
-author: "Replication Author[s] (contact information)"
+title: "Replication of Study 'The Illusion of Consensus: A Failure to Distinguish Between True and False Consensus (2019, Psychological Science)"
+author: "Nina Rice nmrice@ucsd.edu"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 format:
   html:
@@ -8,11 +8,16 @@ format:
     toc_depth: 3
 ---
 
-<!-- Replication reports should all use this template to standardize reporting across projects.  These reports will be public supplementary materials that accompany the summary report(s) of the aggregate results. -->
 
 ## Introduction
 
-[No abstract is needed.]  Each replication project will have a straightforward, no frills report of the study and results.  These reports will be publicly available as supplementary material for the aggregate report(s) of the project as a whole.  Also, to maximize project integrity, the intro and methods will be written and critiqued in advance of data collection.  Introductions can be just 1-2 paragraphs clarifying the main idea of the original study, the target finding for replication, and any other essential information.  It will NOT have a literature review -- that is in the original publication. You can write both the introduction and the methods in past tense.  
+Justification for Experiment Choice:
+I chose to replicate Yousif et al.'s study, "The Illusion of Consensus: A Failure to Distinguish Between True and False Consensus," as it aligns with my interest in behavior and people analysis, particularly in understanding how individuals form perceptions about group opinions. The study's focus on consensus illusions is highly relevant to my career interest in researching and improving wellbeing, especially in a workplace where misconceptions about team dynamics or group agreement could lead to inefficiencies or even conflict. Replicating this experiment will allow me to explore the cognitive biases that impact how individuals evaluate consensus, which has practical implications for fostering effective collaboration in organizational settings.
+
+Stimuli and Procedures:
+The experiment by Yousif et al. involved exposing participants to a series of statements, some representing true consensus (widely agreed upon facts) and others representing false consensus (opinions that individuals incorrectly believe to be widely shared). Participants were asked to judge whether the presented statements reflected true or false consensus. To replicate this study, I will need to create a similar set of statements, carefully ensuring that some have strong empirical support, while others reflect common but incorrect beliefs. Participants will be drawn from a similar population, ideally with comparable educational backgrounds, to maintain consistency with the original study.
+
+One challenge in replicating this study will be ensuring that the stimuli are interpreted in the same way by the new participant group. Additionally, measuring participants’ beliefs about consensus requires clear, unbiased wording of the statements to avoid confounding factors such as leading questions. Another challenge will be balancing the number of true and false statements, as well as ensuring the external validity of the consensus judgments, which might vary based on cultural or contextual differences between the original participant pool and the one I will be using. 
 
 
 ## Methods
