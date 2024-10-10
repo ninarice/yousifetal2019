@@ -2,10 +2,7 @@
 title: "Replication of Study 'The Illusion of Consensus: A Failure to Distinguish Between True and False Consensus (2019, Psychological Science)"
 author: "Nina Rice nmrice@ucsd.edu"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
-format:
-  html:
-    toc: true
-    toc_depth: 3
+format: pdf
 ---
 
 
